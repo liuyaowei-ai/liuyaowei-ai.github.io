@@ -4,27 +4,13 @@
   
     
     <entry>
-      <title>我的技术复盘：从小白到搭建博客</title>
-      <link href="/2025/12/31/%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E5%A4%8D%E7%9B%98/"/>
-      <url>/2025/12/31/%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E5%A4%8D%E7%9B%98/</url>
+      <title></title>
+      <link href="/2025/12/30/%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E5%A4%8D%E7%9B%98/"/>
+      <url>/2025/12/30/%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E5%A4%8D%E7%9B%98/</url>
       
-        <content type="html"><![CDATA[<p>先实验测试一下</p><p><img src="/images/img.png" alt="我的截图"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 技术 </category>
-          
-      </categories>
+        <content type="html"><![CDATA[<hr><hr><p>title: 我的技术复盘：从小白到搭建博客<br>date: 2025-12-31 14:00:00<br>tags: [Hexo, 学习]<br>categories: [技术]</p><h1 id="下面这行是关键！加上封面图"><a href="#下面这行是关键！加上封面图" class="headerlink" title="下面这行是关键！加上封面图"></a>下面这行是关键！加上封面图</h1><p>cover: &#x2F;images&#x2F;top.jpg  &lt;– 先暂时用你的首页大图试试，以后可以换别的</p><p>先实验测试一下</p><p><img src="/images/img.png" alt="我的截图"></p>]]></content>
       
       
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-            <tag> 学习 </tag>
-            
-        </tags>
       
     </entry>
     
